@@ -37,8 +37,7 @@ The JIP criteria use a decision tree like structure, based on only counts, which
 
 ## Directory Structure
 * `README.md`: This file
-* `Manual_How to detect JIPs_v1.pdf`: User manual with extra information on the different models (input, performance, etc...)
-* `requirements.txt`: Prerequisite python modules (with version numbers) to run code
+* `Manual_How to detect JIPs_v2.pdf`: User manual with extra information on the different models (input, performance, etc...)
 * `figures/md`: Figures used for the readme
 * `src/*`: Reference code and lists of joints to counts
   * `src/DAS28_joints.py`: Contains lists of DAS28 joints for each anatomical location (based on Leiden EHR naming convention) 
