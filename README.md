@@ -58,7 +58,7 @@ As alternative to using the criteria, you may also refer to our other JIP relate
 ![alt text](figures/md/Overview_JIP_related_git.png)
 
 ### Different ways to detect the JIPs
-In order to identify JIPs, you have three options: 
+Aside from the simplified criteria based JIP assignment, you can also look at our solutions:
 1. (Re)clustering : run entire cluster analysis again, see our original clustering pipeline [EHR-clustering](https://github.com/levrex/EHR-Clustering-RA)
 2. Projection : use our client-based webtool [Rheumalyze](https://knevel-lab.github.io/Rheumalyze/) or project patients on custom made latent space using [POODLE](https://github.com/levrex/Poodle)  
 3. Prediction : use a surrogate technique to predict the JIP cluster
