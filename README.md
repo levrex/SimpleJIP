@@ -1,7 +1,7 @@
 # SimpleJIP
-JIPs stratify rheumatoid arthritis patients into four phenotypes based on affected joint distribution: JIP-foot (predominantly foot involvement), JIP-oligo (few affected joints), JIP-hand (predominantly hand involvement), and JIP-poly (many affected joints). These patterns correspond to differences in treatment outcomes and synovial histology. For more information on the clinical relevance of JIPs, see our study: https://www.nature.com/articles/s41746-025-01997-1 
+Joint Involvement Patterns (JIPs) stratify rheumatoid arthritis patients into four phenotypes based on affected joint distribution: JIP-foot (predominantly foot involvement), JIP-oligo (few affected joints), JIP-hand (predominantly hand involvement), and JIP-poly (many affected joints). These patterns correspond to differences in treatment outcomes and synovial histology. For more information on the clinical relevance of JIPs, see our study: https://www.nature.com/articles/s41746-025-01997-1 
 
-To facilitate the use of Joint Involvement Patterns (JIPs) in research, we developed a simple decision tree to discern between the JIPs. You only need to sum the number of affected joints in four regions of interest.
+To facilitate the use of JIPs in research, we developed a simple decision tree to discern between the JIPs. You only need to sum the number of affected joints in four regions of interest.
 
 This means you can assign patients without the need for any programming knowledge. Though we have included an example Python script for reference if you want to employ it on a large number of patients at once (src/jip_criteria_example_code.py)
 
